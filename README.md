@@ -1,6 +1,6 @@
 # tds project
 
-Our Anomaly Detection automation tool, used to help with the model-selection problem, and automating it.
+Our (me and Gilad)Anomaly Detection automation tool, used to help with the model-selection problem, and automating it.
 
 ## Installation
 
