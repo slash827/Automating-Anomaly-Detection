@@ -55,7 +55,7 @@ pyod has feature to automatically generate datasets with outliers, and metaod wa
 #ROOT_DIR = "C:\\Users\\orris\\OneDrive\\Desktop\\AnomalyDetection-main\\datasets\\"
 ROOT_DIR = "datasets" + os.sep
 def preprocess_creditcard(path = ROOT_DIR + "creditcard.csv"):
-    data = pd.read_csv(path)[:50000]
+    data = pd.read_csv(path)[:25000]
     # data = data.head(10000)
     #print(data.shape)
     #print(data.head())
