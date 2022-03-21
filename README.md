@@ -1,6 +1,6 @@
-# tds project
+# TDS project
 
-Our (me and Gilad)Anomaly Detection automation tool, used to help with the model-selection problem, and automating it.
+We are Orr Striechman and Gilad Battat and we've created an Anomaly Detection automation tool, used to help with the model-selection problem, and automating it.
 
 ## Installation
 
